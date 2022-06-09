@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../JAVA"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"string": "cpp",
+			"ratio": "cpp"
+		}
+	}
+}
